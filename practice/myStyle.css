@@ -1,0 +1,40 @@
+* {
+    font-family: 'Nanum Pen Script', cursive;
+}
+
+.login-title {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    color: white;
+    background-image: url("http://www.forest.go.kr/newkfsweb/cmm/fms/FileDown.do?atchFileId=FILE_000000010008639&fileSn=0");
+    background-size: cover;
+    width: 300px;
+    height: 200px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.login-title h1 {
+    margin: 0;
+}
+
+.login-title p {
+    margin: 0
+}
+
+.wrap {
+    width:300px;
+    margin: auto;
+}
+
+.ip{
+    width: 150px;
+    margin: auto;
+}
+
+.login{
+    width: 150px;
+    margin: auto;
+}
